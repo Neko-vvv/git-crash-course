@@ -1,4 +1,3 @@
 Name: Nico Gabriel A. Domingo
-Section: BSCS-1A
 Program: BS Computer Science
 Address: Tiaong, Quezon
